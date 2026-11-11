@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"skills": {
+		"weekly-review": { "category": "productivity", "icon": "calendar-check", "featured": true },
+		"inbox-triage": { "category": "productivity", "icon": "inbox", "featured": true },
+		"writing-skills": { "category": "productivity", "icon": "pencil-ruler", "featured": true },
+		"release-notes": { "category": "coding", "icon": "git-pull-request" },
+		"docx": { "category": "documents", "icon": "file-text", "featured": true },
+		"pdf": { "category": "documents", "icon": "file-type", "featured": true },
+		"xlsx": { "category": "data-analytics", "icon": "sheet", "featured": true },
+		"pptx": { "category": "documents", "icon": "presentation" },
+		"internal-comms": { "category": "productivity", "icon": "megaphone" },
+		"frontend-design": { "category": "design", "icon": "layout-template" },
+		"canvas-design": { "category": "design", "icon": "palette" },
+		"algorithmic-art": { "category": "design", "icon": "sparkles" },
+		"theme-factory": { "category": "design", "icon": "swatch-book" },
+		"web-artifacts-builder": { "category": "coding", "icon": "blocks" },
+		"webapp-testing": { "category": "coding", "icon": "monitor-check" },
+		"mcp-builder": { "category": "coding", "icon": "plug" },
+		"skill-creator": { "category": "automation", "icon": "wand-sparkles" }
+	}
+}

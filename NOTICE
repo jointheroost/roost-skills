@@ -1,0 +1,35 @@
+Roost skills
+Copyright 2026 Watzon Ventures LLC
+
+This product includes Agent Skills by Anthropic, PBC, from
+https://github.com/anthropics/skills at commit
+2c5958ecac7cee2b583967a2c4981d0f4a75c579, licensed under the
+Apache License, Version 2.0. Each of these skills keeps its own
+LICENSE.txt in its folder:
+
+  skills/algorithmic-art
+  skills/canvas-design
+  skills/docx
+  skills/frontend-design
+  skills/internal-comms
+  skills/mcp-builder
+  skills/pdf
+  skills/pptx
+  skills/skill-creator
+  skills/theme-factory
+  skills/web-artifacts-builder
+  skills/webapp-testing
+  skills/xlsx
+
+Changes made by Roost (Apache License 2.0, section 4(b)): in the
+SKILL.md file of each skill above, the YAML frontmatter has a new
+comment line and two new fields, metadata.version and
+metadata.upstream. No other file of these skills was changed.
+
+THIRD_PARTY_NOTICES.md is copied unchanged from the same commit of
+anthropics/skills. It lists third-party software that parts of these
+skills may contain or use.
+
+The skills weekly-review, inbox-triage, release-notes, and
+writing-skills were written for Roost and are licensed under the
+Apache License, Version 2.0 (see LICENSE).
